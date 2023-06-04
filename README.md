@@ -1,8 +1,8 @@
-# CitySkyline
+# FlexBoxPhotoGallery
 
 ## Description
 
-I worked on CitySkyline.
+I worked on FlexBoxPhotoGallery.
 
 ## Installation
 N/A
